@@ -28,11 +28,19 @@ Try some games that don’t scroll and use mapper 0. Donkey Kong/Popeye/balloon 
 Useful Information:
 
 https://medium.com/@fogleman/i-made-an-nes-emulator-here-s-what-i-learned-about-the-original-nintendo-2e078c9b28fe
+
 https://bisqwit.iki.fi/jutut/kuvat/programming_examples/nesemu1/nesemu1.cc
+
 https://www.youtube.com/watch?v=y71lli8MS8s
+
 https://en.cppreference.com/w/cpp/types/integer
+
 http://stannum.co.il/blog/5/sized-integer-types-and-signedness
+
 https://stackoverflow.com/questions/20109780/int-ptr-in-64-bit-conversion
+
 https://github.com/neveraway/nes-emulator/blob/master/src-vs2012/emulator/emulator/nes/cpu.cpp
+
 http://nesdev.com/NESDoc.pdf
+
 
